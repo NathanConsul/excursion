@@ -1,3 +1,3 @@
 # excursion
 
-Practice project
+Practice HTML/CSS project
